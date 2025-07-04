@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srivathsa252
 - 👀 I’m interested in UI/ UX Desighn
-- 🌱 I’m currently learning basic programming
+- 🌱 I’m currently in my last phase of my official learning curve 
 - 💞️ I’m doing my B.Tech in Indain Institute of information and technology kottayam
 - 📫 How to reach me on instagram @srivathsa.ik
 <!---
